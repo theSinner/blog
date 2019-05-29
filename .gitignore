@@ -9,6 +9,8 @@
 # generated files by hugo
 
 blog.code-workspace
+publish.sh
+
 
 /public/
 /resources/_gen/

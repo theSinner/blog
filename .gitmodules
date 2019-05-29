@@ -1,3 +1,3 @@
-[submodule "hyde-hyde"]
-	path = hyde-hyde
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
 	url = git@github.com:theSinner/hyde-hyde.git

@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.ajorloo.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Blog"
+theme = "hyde-hyde"
+highlightjs = true
+highlightjsstyle="solarized-dark"
+disqusShortname="my-blog-drywaowzdj"
+[params]
+  author = "Amir Ajorloo"
+  description = "Amir Ajorloo's Blog"
+  [params.authors]
+
+    [params.authors.Derek]
+      thumbnail		= "https://atbox.io/u/profile/thumb/GEKhU9YO2YYKpTIid8JZycALcOB2gkJF.jpg"
+      image			= "https://atbox.io/u/profile/thumb/GEKhU9YO2YYKpTIid8JZycALcOB2gkJF.jpg"
+      facebook		= "https://www.facebook.com/amir.ajorloo"
+      github			= "https://github.com/theSinner/"
+      twitter			= "https://twitter.com/amirajorloo"
+      bio				= "Go hard or go home."
+
+  [params.social]
+      twitter = "amirajorloo"
+      github = "theSinner"
+      gravatar = "amirajorloo@gmail.com"
+      instagram = "am1r.ajorloo"
+      linkedIn = "amirajorloo"
+      email = "amirajorloo@gmail.com"
+      facebook = "amir.ajorloo"

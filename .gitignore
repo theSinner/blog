@@ -1,12 +1,15 @@
 
-# Created by https://www.gitignore.io/api/osx,hugo
-# Edit at https://www.gitignore.io/?templates=osx,hugo
+# Created by https://www.gitignore.io/api/osx,hugo,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=osx,hugo,visualstudiocode
 
 ### Hugo ###
 # gitginore template for Hugo projects
 # website: https://gohugo.io
 
 # generated files by hugo
+
+blog.code-workspace
+
 /public/
 /resources/_gen/
 
@@ -43,4 +46,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# End of https://www.gitignore.io/api/osx,hugo
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/osx,hugo,visualstudiocode

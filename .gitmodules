@@ -1,0 +1,3 @@
+[submodule "hyde-hyde"]
+	path = hyde-hyde
+	url = git@github.com:theSinner/hyde-hyde.git
